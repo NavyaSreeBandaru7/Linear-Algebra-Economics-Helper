@@ -4,3 +4,4 @@ streamlit spacy transformers
 matplotlib.pyplot 
 numpy
 spacy
+regex
