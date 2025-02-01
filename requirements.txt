@@ -2,6 +2,7 @@ streamlit
 plotly
 matplotlib
 numpy
+streamlit
 spacy
 transformers
 regex
