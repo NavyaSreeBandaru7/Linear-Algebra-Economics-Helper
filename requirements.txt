@@ -1,6 +1,5 @@
 streamlit
 plotly
-streamlit
 matplotlib
 numpy
 spacy
