@@ -1,7 +1,6 @@
 streamlit
 plotly
-streamlit spacy transformers
-matplotlib.pyplot 
+matplotlib
 numpy
 spacy
 regex
