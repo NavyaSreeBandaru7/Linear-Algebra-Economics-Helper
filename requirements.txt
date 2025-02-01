@@ -1,5 +1,6 @@
 streamlit
 plotly
+streamlit spacy transformers
 matplotlib
 numpy
 spacy
