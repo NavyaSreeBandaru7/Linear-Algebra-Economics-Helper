@@ -4,5 +4,6 @@ matplotlib
 numpy
 streamlit
 spacy
+en_core_web_sm==3.0.0
 transformers
 regex
