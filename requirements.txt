@@ -5,3 +5,11 @@ matplotlib>=3.7.1
 setuptools>=68.0.0
 cython>=3.0.0  # Required for proper binary builds
 en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.0/en_core_web_sm-3.7.0-py3-none-any.whl
+seaborn==0.13.0
+requests==2.31.0
+pillow==10.0.1
+plotly==5.18.0
+altair==5.1.2
+watchdog==3.0.0
+pyarrow==14.0.2
+protobuf==4.25.1
